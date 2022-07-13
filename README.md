@@ -1,2 +1,2 @@
 # practice
-wxaan ku practice gareenaya luuqada cprogramming
+ practice for programming language like c,javascript,python ,php ..etc
